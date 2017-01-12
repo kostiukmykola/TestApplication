@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test Application</string>
+    <string-array name="spinner_array">
+        <item>Quandl</item>
+        <item>Google</item>
+        <item>Yahoo</item>
+        <item>Quotemedia</item>
+    </string-array>
+</resources>
